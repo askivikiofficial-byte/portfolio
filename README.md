@@ -1,4 +1,4 @@
-#Askiviki – Portfolio | A–Z Business Solutions
+# Askiviki – Portfolio | A–Z Business Solutions
 
 ![Portfolio](https://img.shields.io/badge/Type-Personal%20Portfolio-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -10,7 +10,7 @@
 
 ---
 
-##About This Portfolio
+## About This Portfolio
 
 This repository contains the **official personal portfolio website** of  
 **Vigneshwaran P**, founder of **Askiviki**.
@@ -26,7 +26,7 @@ The portfolio showcases:
 
 ---
 
-##About Askiviki
+## About Askiviki
 
 **Askiviki** provides complete **A–Z Business Solutions** for:
 - Shops & small businesses
@@ -34,7 +34,7 @@ The portfolio showcases:
 - Institutions
 - Professionals
 
-###Core Focus Areas
+## Core Focus Areas
 - IT Consulting
 - Software Systems
 - Business Automation
@@ -42,12 +42,12 @@ The portfolio showcases:
 
 ---
 
-##Live Portfolio
+## Live Portfolio
 🔗 https://askiviki.simpletechgroups.com
 
 ---
 
-##Services Highlighted
+## Services Highlighted
 - Printing & Branding
 - Computers & Printers Setup
 - Billing Software (GST, Inventory, Accounting)
@@ -65,7 +65,7 @@ The portfolio showcases:
 
 ---
 
-##🛠️ Technology Stack
+## 🛠️ Technology Stack
 - HTML5
 - CSS3
 - Core PHP
@@ -74,7 +74,7 @@ The portfolio showcases:
 
 ---
 
-##Owner & Contact
+## Owner & Contact
 
 **Vigneshwaran P**  
 Founder – Askiviki  
@@ -91,7 +91,7 @@ Founder – Askiviki
 
 ---
 
-##License & Usage
+## License & Usage
 
 This repository is licensed under the **MIT License**.
 
@@ -101,5 +101,5 @@ This repository is licensed under the **MIT License**.
 
 ---
 
-###Built with ❤️ in India  
-###Personal Portfolio of Vigneshwaran P
+### Built with ❤️ in India  
+### Personal Portfolio of Vigneshwaran P
