@@ -53,7 +53,10 @@ if (!$isLocal && empty($_SERVER['HTTPS'])) {
         <link rel="stylesheet"
               href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     </noscript>
-
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+          integrity="sha512-xh6O/CkQoPOWDdYTDqe7Yz9Qx8uWlH0I1GtIsfRSAxEPPYUajF1/MEGLjm+rXhN3kLBXjg5eQof8I4eAbOeXKQ=="
+          crossorigin="anonymous" referrerpolicy="no-referrer">
     <style>
         :root{
             --bg:#050814;
