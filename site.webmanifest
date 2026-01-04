@@ -1,0 +1,22 @@
+{
+  "name": "Askiviki – A–Z Business Solutions",
+  "short_name": "Askiviki",
+  "description": "Personal portfolio of Vigneshwaran P – IT consulting, software systems, automation & training.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050814",
+  "theme_color": "#5b6cff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/android-chrome-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
