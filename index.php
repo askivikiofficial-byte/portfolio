@@ -46,17 +46,13 @@ if (!$isLocal && empty($_SERVER['HTTPS'])) {
     <meta property="og:url" content="<?= $domain ?>">
 
     <!-- FONT AWESOME -->
-    <link rel="preload" as="style"
+    <link rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-          onload="this.onload=null;this.rel='stylesheet'">
+          crossorigin="anonymous" referrerpolicy="no-referrer">
     <noscript>
         <link rel="stylesheet"
               href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     </noscript>
-    <link rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-          integrity="sha512-xh6O/CkQoPOWDdYTDqe7Yz9Qx8uWlH0I1GtIsfRSAxEPPYUajF1/MEGLjm+rXhN3kLBXjg5eQof8I4eAbOeXKQ=="
-          crossorigin="anonymous" referrerpolicy="no-referrer">
     <style>
         :root{
             --bg:#050814;
