@@ -523,10 +523,10 @@ if (!$isLocal && empty($_SERVER['HTTPS'])) {
 
 
 <footer>
-    © <?= date("Y") ?> <?= $brand ?> – A–Z Business Solutions
+    ©<?= date("Y") ?> <?= $brand ?> – A–Z Business Solutions
 </footer>
 
-<a class="whatsapp" href="https://wa.me/<?= $wa ?>" target="_blank">
+<a class="whatsapp" href="https://wa.me/<?= $wa ?>"  target="_blank">
     <i class="fa-brands fa-whatsapp"></i>
 </a>
 
