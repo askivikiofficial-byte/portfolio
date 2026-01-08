@@ -1,0 +1,21 @@
+# llms.txt for Ask i Viki
+# Website: https://askiviki.simpletechgroups.com
+# Maintained by Simple Tech Groups
+
+User-Agent: *
+Allow: /
+
+# Primary content location
+Content: https://askiviki.simpletechgroups.com/
+
+# Human-readable site purpose
+Description: Ask i Viki is an AI-powered assistance and consulting platform built by Simple Tech Groups, designed to provide simplified technical guidance, digital solutions, and knowledge support.
+
+# Attribution preference
+Attribution: Ask i Viki (https://askiviki.simpletechgroups.com)
+
+# Contact for AI usage or licensing
+Contact: mailto:askiviki.official@gmail.com
+
+# Update policy
+Last-Updated: 2026-01-09

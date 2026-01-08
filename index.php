@@ -44,6 +44,35 @@ if (!$isLocal && empty($_SERVER['HTTPS'])) {
     <meta property="og:description" content="Complete business setup, IT solutions & skill development training.">
     <meta property="og:image" content="<?= $domain ?>og-image.png">
     <meta property="og:url" content="<?= $domain ?>">
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "Ask i Viki",
+            "url": "<?= $domain ?>",
+            "description": "Ask i Viki is an AI-powered assistance and consulting platform by Simple Tech Groups, offering simplified technical guidance and digital solutions.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Simple Tech Groups",
+                "url": "<?= $domain ?>",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "<?= $domain ?>logo.png"
+                }
+            }
+        }
+    </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "Ask i Viki – AI Assistance Platform",
+            "url": "<?= $domain ?>",
+            "description": "AI-powered guidance, consulting, and digital solutions built for startups, freelancers, and businesses in India.",
+            "inLanguage": "en-IN"
+        }
+    </script>
 
     <!-- FONT AWESOME -->
     <link rel="stylesheet"
