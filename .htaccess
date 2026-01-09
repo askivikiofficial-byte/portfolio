@@ -1,0 +1,12 @@
+# Allow Googlebot and sitemap access
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^/sitemap\.xml$ [OR]
+RewriteCond %{HTTP_USER_AGENT} Googlebot [NC]
+RewriteRule .* - [L]
+</IfModule>
+
+# Allow sitemap explicitly
+<Files "sitemap.xml">
+    Require all granted
+</Files>
